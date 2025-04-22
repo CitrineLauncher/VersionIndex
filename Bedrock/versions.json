@@ -10,20 +10,20 @@
       }
     },
     {
+      "Version": "1.21.80.28",
+      "Type": "Preview",
+      "UpdateIds": {
+        "x64": "70d34307-7df6-4aac-9d84-76b38a814af3",
+        "x86": "fdb87cae-72be-4d56-924a-42d70e9beb98"
+      }
+    },
+    {
       "Version": "1.21.73.1",
       "Type": "Release",
       "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.73.01.zip",
       "UpdateIds": {
         "x64": "ae6fcf00-bc10-4f1a-b9af-ece5238870e1",
         "x86": "2f384bb5-35f3-466f-ab24-e383959ef5a6"
-      }
-    },
-    {
-      "Version": "1.21.80.28",
-      "Type": "Preview",
-      "UpdateIds": {
-        "x64": "70d34307-7df6-4aac-9d84-76b38a814af3",
-        "x86": "fdb87cae-72be-4d56-924a-42d70e9beb98"
       }
     },
     {
