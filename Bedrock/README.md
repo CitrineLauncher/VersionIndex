@@ -16,6 +16,7 @@ Within this index, you'll find two main sections:
 Each entry in the **Versions** section includes:
 - **Version:** The version string.
 - **Type:** The release type; either `"Preview"` or `"Release"`.
+- **Server:** The link to download the dedicated server for this version.
 - **UpdateIds:** Identifiers that the launcher uses to fetch the correct download, specified individually for:
   - **x64:** 64-bit processors.
   - **x86:** 32-bit processors.
