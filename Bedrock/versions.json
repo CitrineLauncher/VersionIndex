@@ -73,39 +73,12 @@
       }
     },
     {
-      "Version": "1.21.80.22",
-      "Type": "Preview",
-      "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.80.22.zip",
-      "UpdateIds": {
-        "x64": "fbbfe21c-1c3a-476b-98f5-55f09c5588a2",
-        "x86": "02e8cd00-3d95-4b3a-aace-7dcfb24774e8"
-      }
-    },
-    {
       "Version": "1.21.70.3",
       "Type": "Release",
       "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.70.03.zip",
       "UpdateIds": {
         "x64": "511e0381-93bd-4273-a639-4a17b8895029",
         "x86": "59c4bf13-a7cc-4988-8438-2688b4e14ef0"
-      }
-    },
-    {
-      "Version": "1.21.80.21",
-      "Type": "Preview",
-      "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.80.21.zip",
-      "UpdateIds": {
-        "x64": "47204794-0ca8-4141-8aef-384b586d1721",
-        "x86": "9f724d37-40f7-4670-8125-2aefc39cbff4"
-      }
-    },
-    {
-      "Version": "1.21.80.20",
-      "Type": "Preview",
-      "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.80.20.zip",
-      "UpdateIds": {
-        "x64": "57543f5b-e520-4a95-84bd-0c614a0e395a",
-        "x86": "6bcaa108-befa-4590-9ab7-48bcc8ed9c99"
       }
     },
     {
