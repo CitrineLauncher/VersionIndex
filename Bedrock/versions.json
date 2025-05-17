@@ -12,7 +12,7 @@
     {
       "Version": "1.21.81.2",
       "Type": "Release",
-      "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.81.02.zip",
+      "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.81.2.zip",
       "UpdateIds": {
         "x64": "0389b5a3-28fa-45e0-9c86-246cdb089a43",
         "x86": "1578e6a6-4bee-4504-93c9-bcaa042d7580"
