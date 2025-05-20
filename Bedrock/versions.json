@@ -1,9 +1,18 @@
 {
   "Versions": [
     {
+      "Version": "1.21.90.26",
+      "Type": "Preview",
+      "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.90.26.zip",
+      "UpdateIds": {
+        "x64": "646f5eb1-2eaf-441e-9ce6-44010f00a3b9",
+        "x86": "afbfb553-6a68-4504-8814-d240e67e0aed"
+      }
+    },
+    {
       "Version": "1.21.82.1",
       "Type": "Release",
-      "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.82.1.zip",
+      "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.82.01.zip",
       "UpdateIds": {
         "x64": "fa36217a-0da7-4a6d-b854-3b4d5e4d3bd9",
         "x86": "08b69f1d-e548-437c-ba01-60d89d556344"
