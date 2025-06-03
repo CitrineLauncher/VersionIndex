@@ -1,6 +1,15 @@
 {
   "Versions": [
     {
+      "Version": "1.21.90.28",
+      "Type": "Preview",
+      "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.90.28.zip",
+      "UpdateIds": {
+        "x64": "df974c76-2f0e-45e9-ae92-7fb759b60827",
+        "x86": "23bd5dce-246d-4928-94e1-4cfaf87c125d"
+      }
+    },
+    {
       "Version": "1.21.90.27",
       "Type": "Preview",
       "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.90.27.zip",
