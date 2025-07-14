@@ -1,6 +1,15 @@
 {
   "Versions": [
     {
+      "Version": "1.21.94.1",
+      "Type": "Release",
+      "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.94.01.zip",
+      "UpdateIds": {
+        "x64": "fcc1d727-bc59-40d1-b4e8-1591817179ff",
+        "x86": "fc23eff6-f328-4191-94f7-489d62762d9b"
+      }
+    },
+    {
       "Version": "1.21.93.1",
       "Type": "Release",
       "Server": "https://www.minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.93.01.zip",
