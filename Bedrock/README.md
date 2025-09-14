@@ -10,21 +10,26 @@ Within this index, you'll find two main sections:
 - **Versions:** A list of Bedrock Edition versions.
 - **Dependencies:** A list of required dependencies.
 
+
 ## Data Structure
 
 ### Versions
+
 Each entry in the **Versions** section includes:
+
 - **Version:** The version string.
-- **Type:** The release type; either `"Preview"` or `"Release"`.
-- **Server:** The link to download the dedicated server for this version.
-- **UpdateIds:** Identifiers that the launcher uses to fetch the correct download, specified individually for:
-  - **x64:** 64-bit processors.
-  - **x86:** 32-bit processors.
+- **Channel:** The release channel, either `"Preview"` or `"Release"`.
+- **Type:** The package type, either `"MSIXVC"` or `"APPX"`.
+- **Server:** The download link for the dedicated server.
+- **UpdateId:** The identifier which is used to retrieve the 64-bit build.
+- **Path:**
+  - For entries with `"Type": "MSIXVC"`, this field contains the relative URI to the package.
+  - For `"Type": "APPX"`, this field is not present.
 
 ### Dependencies
+
 Each entry in the **Dependencies** section includes:
-- **Name:** The name of the dependency.
-- **Version:** The version of the dependency.
-- **UpdateIds:** Identifiers that the launcher uses to fetch the correct download, specified individually for:
-  - **x64:** 64-bit processors.
-  - **x86:** 32-bit processors.
+
+- **Name:** The dependency name.
+- **Version:** The dependency version.
+- **UpdateId:** The identifier which is used to retrieve the 64-bit build.
