@@ -7,7 +7,7 @@ This folder contains the index for Java Edition.
 
 This index is meant to be combined with [Mojang's official version index](https://piston-meta.mojang.com/mc/game/version_manifest_v2.json), adding extra Java Edition versions that aren't present in the official list.
 
-## Data Structure
+## Index Structure
 
 ### Versions
 Each entry in the **versions** array includes:
