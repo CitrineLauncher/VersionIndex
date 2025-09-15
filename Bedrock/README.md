@@ -20,7 +20,7 @@ Each entry in the **Versions** section includes:
 - **Version:** The version string.
 - **Channel:** The release channel, either `"Preview"` or `"Release"`.
 - **Type:** The package type, either `"MSIXVC"` or `"APPX"`.
-- **Server:** The download link for the dedicated server.
+- **ServerFileName:** The name of the dedicated server's download file.
 - **UpdateId:** The identifier which is used to retrieve the 64-bit build.
 - **Path:**
   - For entries with `"Type": "MSIXVC"`, this field contains the relative URI to the package.
