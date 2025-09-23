@@ -1,6 +1,14 @@
 {
   "Versions": [
     {
+      "Version": "1.21.120.23",
+      "Channel": "Preview",
+      "Type": "MSIXVC",
+      "ServerFileName": "bedrock-server-1.21.120.23.zip",
+      "UpdateId": "1.21.12023.0.63c4ed32-17d3-44e3-bcbe-283f7bb140ab",
+      "Path": "4/c21d7589-ffaf-4544-b1c5-926d72752e6c/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.21.12023.0.9f1b49ff-7011-4af2-bb8c-edc1de4b41df/Microsoft.MinecraftWindowsBeta_1.21.12023.0_x64__8wekyb3d8bbwe.msixvc"
+    },
+    {
       "Version": "1.21.120.22",
       "Channel": "Preview",
       "Type": "MSIXVC",
