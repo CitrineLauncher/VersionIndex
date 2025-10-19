@@ -1,6 +1,13 @@
 {
   "Versions": [
     {
+      "Version": "1.21.114.1",
+      "Channel": "Release",
+      "Type": "APPX",
+      "ServerFileName": "bedrock-server-1.21.114.1.zip",
+      "UpdateId": "3738c248-0603-4560-abf4-fdd66e7cd852"
+    },
+    {
       "Version": "1.21.130.20",
       "Channel": "Preview",
       "Type": "MSIXVC",
@@ -68,13 +75,6 @@
       "Type": "APPX",
       "ServerFileName": "bedrock-server-1.21.120.20.zip",
       "UpdateId": "c1872dc3-ddf8-4a91-844b-8dca1b681324"
-    },
-    {
-      "Version": "1.21.110.26",
-      "Channel": "Preview",
-      "Type": "APPX",
-      "ServerFileName": "bedrock-server-1.21.110.26.zip",
-      "UpdateId": "a334dabf-51c3-405d-bbeb-48c1d86f4b67"
     },
     {
       "Version": "1.21.101.1",
