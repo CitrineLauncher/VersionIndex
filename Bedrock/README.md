@@ -61,5 +61,5 @@ Each package entry includes:
 | Field         | Description                                                                               |
 | ------------- | ----------------------------------------------------------------------------------------- |
 | **Version**   | The build version.                                                                        |
-| **BuildType** | Either `"Release"` or `"Preview"`.                                                        |
+| **BuildType** | Either `"Release"`, `"Beta"` or `"Preview"`.                                              |
 | **Path**      | The filename of the downloadable server archive.                                          |
