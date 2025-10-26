@@ -1,3 +1,6 @@
+*.jar binary
 * text=auto eol=crlf
 
-*.jar binary
+
+.gitattributes text eol=lf
+.gitattributes export-ignore

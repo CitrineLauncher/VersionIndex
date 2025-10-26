@@ -1,35 +1,65 @@
 # Bedrock
 
-This folder contains the index for Bedrock Edition.
+This directory contains the index for Bedrock Edition.
+
+---
+
+## GamePackages.json
+
+This file contains available client builds and their dependencies.
+
+### Structure
+
+#### BaseUrls
+
+Lists base URLs where package files are hosted.
 
 
-## Overview
+#### Packages
 
-Within this index, you'll find two main sections:
+Each package entry includes:
 
-- **Versions:** A list of Bedrock Edition versions.
-- **Dependencies:** A list of required dependencies.
+| Field            | Description                                                             |
+| ---------------- | ----------------------------------------------------------------------- |
+| **Version**      | The build version.                                                      |
+| **BuildType**    | Either `"Release"` or `"Preview"`.                                      |
+| **Platform**     | Either `"WindowsUWP"` or `"WindowsGDK"`.                                |
+| **Architecture** | CPU architecture of the package.                                        |
+| **UpdateId**     | Unique ID used to retrieve this build.                                  |
+| **Path**         | Relative URI to the game package (only for `"Platform": "WindowsGDK"`). |
 
 
-## Index Structure
+#### Dependencies
 
-### Versions
+Each dependency entry includes:
 
-Each entry in the **Versions** section includes:
+| Field                 | Description                                             |
+| --------------------- | ------------------------------------------------------- |
+| **PackageFamilyName** | The package family name of the dependency.              |
+| **Version**           | The dependency version.                                 |
+| **Architecture**      | CPU architecture of the dependency.                     |
+| **UpdateId**          | The identifier used to retrieve the dependency package. |
 
-- **Version:** The version string.
-- **Channel:** The release channel, either `"Preview"` or `"Release"`.
-- **Type:** The package type, either `"MSIXVC"` or `"APPX"`.
-- **ServerFileName (optional):** The name of the dedicated server's download file, if available.
-- **UpdateId:** The identifier which is used to retrieve the 64-bit build.
-- **Path:**
-  - For entries with `"Type": "MSIXVC"`, this field contains the relative URI to the package.
-  - For `"Type": "APPX"`, this field is not present.
+---
 
-### Dependencies
 
-Each entry in the **Dependencies** section includes:
+## ServerPackages.json
 
-- **Name:** The dependency name.
-- **Version:** The dependency version.
-- **UpdateId:** The identifier which is used to retrieve the 64-bit build.
+This file contains available server builds.
+
+### Structure
+
+#### BaseUrls
+
+Lists the base URLs for each platform and release channel.
+
+
+#### Packages
+
+Each package entry includes:
+
+| Field         | Description                                                                               |
+| ------------- | ----------------------------------------------------------------------------------------- |
+| **Version**   | The build version.                                                                        |
+| **BuildType** | Either `"Release"` or `"Preview"`.                                                        |
+| **Path**      | The filename of the downloadable server archive.                                          |
