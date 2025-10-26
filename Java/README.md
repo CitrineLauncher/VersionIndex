@@ -1,6 +1,6 @@
 # Java
 
-This folder contains the index for Java Edition.
+This directory contains the index for Java Edition.
 
 
 ## Overview
