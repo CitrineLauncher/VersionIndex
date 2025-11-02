@@ -58,8 +58,9 @@ Lists the base URLs for each platform and release channel.
 
 Each package entry includes:
 
-| Field         | Description                                                                               |
-| ------------- | ----------------------------------------------------------------------------------------- |
-| **Version**   | The build version.                                                                        |
-| **BuildType** | Either `"Release"`, `"Beta"` or `"Preview"`.                                              |
-| **Path**      | The filename of the downloadable server archive.                                          |
+| Field         | Description                                      |
+| ------------- | ------------------------------------------------ |
+| **Version**   | The build version.                               |
+| **BuildType** | Either `"Release"` or `"Preview"`.               |
+| **Platform**  | Either `"Windows"` or `"Linux"`.                 |
+| **Path**      | The filename of the downloadable server archive. |
