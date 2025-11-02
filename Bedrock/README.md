@@ -51,7 +51,7 @@ This file contains available server builds.
 
 #### BaseUrl
 
-Lists base URL where package files are hosted.
+Lists the base URL where package files are hosted.
 
 
 #### Packages
