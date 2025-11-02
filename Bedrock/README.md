@@ -49,9 +49,9 @@ This file contains available server builds.
 
 ### Structure
 
-#### BaseUrls
+#### BaseUrl
 
-Lists the base URLs for each platform and release channel.
+Lists base URL where package files are hosted.
 
 
 #### Packages
