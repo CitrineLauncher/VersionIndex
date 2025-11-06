@@ -8,6 +8,12 @@
       "Path": "bin-win/bedrock-server-1.21.121.1.zip"
     },
     {
+      "Version": "1.21.121.1",
+      "BuildType": "Release",
+      "Platform": "Linux",
+      "Path": "bin-linux/bedrock-server-1.21.121.1.zip"
+    },
+    {
       "Version": "1.21.130.25",
       "BuildType": "Preview",
       "Platform": "Windows",
