@@ -2,6 +2,18 @@
   "BaseUrl": "https://www.minecraft.net/bedrockdedicatedserver/",
   "Packages": [
     {
+      "Version": "1.21.122.1",
+      "BuildType": "Release",
+      "Platform": "Windows",
+      "Path": "bin-win/bedrock-server-1.21.122.1.zip"
+    },
+    {
+      "Version": "1.21.122.1",
+      "BuildType": "Release",
+      "Platform": "Linux",
+      "Path": "bin-linux/bedrock-server-1.21.122.1.zip"
+    },
+    {
       "Version": "1.21.121.1",
       "BuildType": "Release",
       "Platform": "Windows",

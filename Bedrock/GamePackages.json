@@ -7,6 +7,14 @@
   },
   "Packages": [
     {
+      "Version": "1.21.122.1",
+      "BuildType": "Release",
+      "Platform": "WindowsGDK",
+      "Architecture": "x64",
+      "UpdateId": "1.21.12201.0.08434987-b8f4-4d32-87cf-fe56da4e3766",
+      "Path": "12/61b23c98-8461-4cd6-a537-863fa838948e/7792d9ce-355a-493c-afbd-768f4a77c3b0/1.21.12201.0.a08d9b9e-669e-4aab-a6d1-514bcd0a40cc/MICROSOFT.MINECRAFTUWP_1.21.12201.0_x64__8wekyb3d8bbwe.msixvc"
+    },
+    {
       "Version": "1.21.121.1",
       "BuildType": "Release",
       "Platform": "WindowsGDK",
