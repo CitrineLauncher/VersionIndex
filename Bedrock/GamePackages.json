@@ -7,6 +7,14 @@
   },
   "Packages": [
     {
+      "Version": "1.21.130.27",
+      "BuildType": "Preview",
+      "Platform": "WindowsGDK",
+      "Architecture": "x64",
+      "UpdateId": "1.21.13027.0.1174dfb7-9b13-4bc3-864c-7f21bd8ca5c2",
+      "Path": "7/9bcb9729-a886-4ff0-8a1b-2ea27294bdc6/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.21.13027.0.4d3d7571-540b-4ebb-9968-a301639d6c0c/Microsoft.MinecraftWindowsBeta_1.21.13027.0_x64__8wekyb3d8bbwe.msixvc"
+    },
+    {
       "Version": "1.21.122.1",
       "BuildType": "Release",
       "Platform": "WindowsGDK",
@@ -21,6 +29,14 @@
       "Architecture": "x64",
       "UpdateId": "1.21.12101.0.969ff479-c648-47e6-aec8-577c57604646",
       "Path": "15/7bf19a96-c045-4b55-b96e-faa32604781a/7792d9ce-355a-493c-afbd-768f4a77c3b0/1.21.12101.0.7590152e-2320-4e06-9e85-8e458890e1e7/MICROSOFT.MINECRAFTUWP_1.21.12101.0_x64__8wekyb3d8bbwe.msixvc"
+    },
+    {
+      "Version": "1.21.130.26",
+      "BuildType": "Preview",
+      "Platform": "WindowsGDK",
+      "Architecture": "x64",
+      "UpdateId": "1.21.13026.0.a7de2f9b-8a77-4d1e-b0bb-45c976bb729f",
+      "Path": "6/05fe140b-9d00-4bb0-9379-6060a7d87bbf/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.21.13026.0.e828de77-9716-42fe-81c5-a8449db51397/Microsoft.MinecraftWindowsBeta_1.21.13026.0_x64__8wekyb3d8bbwe.msixvc"
     },
     {
       "Version": "1.21.130.25",
