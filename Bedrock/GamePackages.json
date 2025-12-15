@@ -1194,7 +1194,7 @@
       "Platform": "WindowsUWP",
       "Architecture": "x64",
       "UpdateId": "e21a9a69-841b-432c-a981-86603ef9d311"
-    },
+    }
   ],
   "Dependencies": {
     "WindowsUWP": [
