@@ -7,6 +7,14 @@
   },
   "Packages": [
     {
+      "Version": "1.26.30.27",
+      "BuildType": "Preview",
+      "Platform": "WindowsGDK",
+      "Architecture": "x64",
+      "UpdateId": "1.26.3027.0.e7089352-d9d5-40f1-b055-e56f408d577f",
+      "Path": "12/e8a63b9f-cf11-4321-a555-f2f0c7608678/98bd2335-9b01-4e4c-bd05-ccc01614078b/1.26.3027.0.24047402-b4a4-41c1-ad0f-7d7107fe9c81/Microsoft.MinecraftWindowsBeta_1.26.3027.0_x64__8wekyb3d8bbwe.msixvc"
+    },
+    {
       "Version": "1.26.20.4",
       "BuildType": "Release",
       "Platform": "WindowsGDK",
