@@ -1628,45 +1628,11 @@
       "UpdateId": "e21a9a69-841b-432c-a981-86603ef9d311"
     }
   ],
-  "Dependencies": {
-    "WindowsUWP": [
-      {
-        "PackageFamilyName": "Microsoft.Services.Store.Engagement_8wekyb3d8bbwe",
-        "Version": "10.0.23012.0",
-        "Architecture": "x64",
-        "UpdateId": "803fd64a-3863-4393-8207-52c4c1c34d7a"
-      },
-      {
-        "PackageFamilyName": "Microsoft.Services.Store.Engagement_8wekyb3d8bbwe",
-        "Version": "10.0.23012.0",
-        "Architecture": "x86",
-        "UpdateId": "a0287c2e-dd76-4319-a049-4b13203cf9f4"
-      },
-      {
-        "PackageFamilyName": "Microsoft.VCLibs.140.00_8wekyb3d8bbwe",
-        "Version": "14.0.33519.0",
-        "Architecture": "x64",
-        "UpdateId": "c5944962-52f0-4025-aac1-bdf7ba43b479"
-      },
-      {
-        "PackageFamilyName": "Microsoft.VCLibs.140.00_8wekyb3d8bbwe",
-        "Version": "14.0.33519.0",
-        "Architecture": "x86",
-        "UpdateId": "addca3d4-7d1c-4b6e-b9d4-95ba502f65de"
-      }
-    ],
+  "PlatformDependencies": {
     "WindowsGDK": [
       {
         "PackageFamilyName": "Microsoft.GamingServices_8wekyb3d8bbwe",
-        "Version": "31.106.13001.0",
-        "Architecture": "neutral",
-        "UpdateId": "c601d26a-2f9e-4a6c-bc6a-86d8cbd55fe5"
-      },
-      {
-        "PackageFamilyName": "Microsoft.VCLibs.140.00.UWPDesktop_8wekyb3d8bbwe",
-        "Version": "14.0.33728.0",
-        "Architecture": "x64",
-        "UpdateId": "b7829da7-10b0-4ee0-89bf-109a20ae0c93"
+        "Version": "38.116.6003.0"
       }
     ]
   }
