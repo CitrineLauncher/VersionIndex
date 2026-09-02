@@ -29,16 +29,14 @@ Each package entry includes:
 | **Path**         | Relative URI to the game package (only for `"Platform": "WindowsGDK"`). |
 
 
-#### Dependencies
+#### PlatformDependencies
 
-Each dependency entry includes:
+Each platform dependency entry includes:
 
 | Field                 | Description                                             |
 | --------------------- | ------------------------------------------------------- |
 | **PackageFamilyName** | The package family name of the dependency.              |
 | **Version**           | The dependency version.                                 |
-| **Architecture**      | CPU architecture of the dependency.                     |
-| **UpdateId**          | The identifier used to retrieve the dependency package. |
 
 ---
 
