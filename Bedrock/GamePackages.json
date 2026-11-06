@@ -7,6 +7,14 @@
   },
   "Packages": [
     {
+      "Version": "1.26.63.1",
+      "BuildType": "Release",
+      "Platform": "WindowsGDK",
+      "Architecture": "x64",
+      "UpdateId": "1.26.6301.0.6564cd0c-e7b4-4a07-81ca-d1811a540b1e",
+      "Path": "3/dd09c79d-d421-4818-b01b-c9d6024e775d/7792d9ce-355a-493c-afbd-768f4a77c3b0/1.26.6301.0.8a81fbd1-766e-4975-92ad-ca1c81548fa1/Microsoft.MinecraftUWP_1.26.6301.0_x64__8wekyb3d8bbwe.msixvc"
+    },
+    {
       "Version": "1.26.62.1",
       "BuildType": "Release",
       "Platform": "WindowsGDK",
